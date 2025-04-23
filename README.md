@@ -1,5 +1,5 @@
 # 🌱 Personal Website
-[Visit my website](https://davis-kim.com)
+[Feel free to visit my personal website!](https://davis-kim.com)
 
 
 # 💻 Tech Stack:
